@@ -1,0 +1,7 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SampleName	Compartment	DevStage	Description
+Endosphere.Stage.1			E_T1	Endosphere	Early vegetative stage	Endosphere.Stage.1
+Endosphere.Stage.2			E_T2	Endosphere	Flowering stage	Endosphere.Stage.2
+Endosphere.Stage.3			E_T3	Endosphere	Pod-filling stage	Endosphere.Stage.3
+Rhizosphere.Stage.1			R_T1	Rhizosphere	Early vegetative stage	Rhizosphere.Stage.1
+Rhizosphere.Stage.2			R_T2	Rhizosphere	Flowering stage	Rhizosphere.Stage.2
+Rhizosphere.Stage.3			R_T3	Rhizosphere	Pod-filling stage	Rhizosphere.Stage.3
