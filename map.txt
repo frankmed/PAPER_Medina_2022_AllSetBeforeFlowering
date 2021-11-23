@@ -1,0 +1,11 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SampleName	Compartment	DevStage	Repetition	Description
+CA1MF1SS01-01			E_T1_L2	Endosphere	Early vegetative stage	Repetition.2	Endosphere.Stage.1
+CA1MF1SS02-02			R_T1_L2	Rhizosphere	Early vegetative stage	Repetition.2	Rhizosphere.Stage.1
+CA1MF1SS03-03			E_T2_L2	Endosphere	Flowering stage	Repetition.2	Endosphere.Stage.2
+CA1MF1SS04-04			R_T2_L2	Rhizosphere	Flowering stage	Repetition.2	Rhizosphere.Stage.2
+CA1MF1SS05-05			E_T3_L2	Endosphere	Pod-filling stage	Repetition.2	Endosphere.Stage.3
+CA1MF1SS06-06			R_T3_L2	Rhizosphere	Pod-filling stage	Repetition.2	Rhizosphere.Stage.3
+CA1MF1SS07-07			E_T1_L1	Endosphere	Early vegetative stage	Repetition.1	Endosphere.Stage.1
+CA1MF1SS08-08			R_T1_L1	Rhizosphere	Early vegetative stage	Repetition.1	Rhizosphere.Stage.1
+CA1MF1SS09-09			E_T2_L1	Endosphere	Flowering stage	Repetition.1	Endosphere.Stage.2
+CA1MF1SS10-10			R_T2_L1	Rhizosphere	Flowering stage	Repetition.1	Rhizosphere.Stage.2
