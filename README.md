@@ -1,4 +1,4 @@
-# PAPER_Medina_2021_AllSetBeforeFlowering
+# PAPER_Medina_2022_AllSetBeforeFlowering
 # Github repository for
 ---
 # All set before flowering: A 16S gene amplicon-based analysis of the root microbiome recruited by common bean (Phaseolus vulgaris) in its centre of domestication 
