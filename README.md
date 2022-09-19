@@ -3,7 +3,7 @@
 ---
 # All set before flowering: A 16S gene amplicon-based analysis of the root microbiome recruited by common bean (Phaseolus vulgaris) in its centre of domestication 
 ---
-## By Medina-Paz Francisco, Cei Abreu-Goodger, Luis Herrera-Estrella, and Martin Heil.
+## By Medina-Paz Francisco, Luis Herrera-Estrella, and Martin Heil.
 ---
 *This work is published*
 
